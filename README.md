@@ -1,4 +1,4 @@
-# 🎨 Color Switcher / Dark Mode Toggle
+# 🌗 Dark / Light Mode Toggle
 
 ## 📌 Description
 
